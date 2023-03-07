@@ -2,7 +2,7 @@
 
 - 👾 Atualmente estou estudando Python e Java;
 - 🔥 Busco oportunidades como desenvolvedor júnior BackEnd;
-- ⭐ Estou buscando ajuda em ideias de projetos para desenvolver;
+- ⭐ Estou buscando ideias de projetos para me aprimorar;
 - ⚡ Amo conversar sobre tecnologia.
 
 ##
