@@ -6,7 +6,6 @@
 - ⚡ Amo conversar sobre tecnologia.
 
 ##
-</div>
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=FelipeSantw&show_icons=true&theme=dark"
@@ -18,6 +17,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeSantw&show_icons=false"/>
 </picture>
+
 
 ##
 <div style="display: inline_block"><br>
