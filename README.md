@@ -1,7 +1,7 @@
 ### Oi, tudo bem? Sou o FelipeSantw! Busco experiências e oportunidades de crescimento na área de desenvolvimento!
 
 - 👾 Atualmente estou estudando Python e Java;
-- 🔥 Busco oportunidade em BackEnd, preferêncialmente Python ou Java;
+- 🔥 Busco oportunidades como desenvolvedor júnior BackEnd;
 - ⭐ Estou buscando ajuda em ideias de projetos para desenvolver;
 - ⚡ Amo conversar sobre tecnologia.
 
