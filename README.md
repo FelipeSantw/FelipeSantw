@@ -33,3 +33,6 @@
   <a href = "mailto:felipesantosdd2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-bittencourt-dos-santos-6b406421a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div>
+  <a href="https://github.com/FelipeSantw/FelipeSantw/files/10905291/Curriculo.-.Felipe.B.Santos.pdf" target="_blank"><img src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-success"></a>
+</div>
