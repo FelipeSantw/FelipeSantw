@@ -21,5 +21,4 @@
 </div>
 <div>
   <a href="https://github.com/FelipeSantw/FelipeSantw/files/10905291/Curriculo.-.Felipe.B.Santos.pdf" target="_blank"><img src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-success"></a>
-  <a href="https://programathor.com.br/users/126093" target="_blank"><img src="https://img.shields.io/badge/Perfil-Programator-yellow"></a>
 </div>
