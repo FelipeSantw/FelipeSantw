@@ -1,9 +1,9 @@
-### Oi, tudo bem? Sou o FelipeSantw! Busco experiências e oportunidades de crescimento na área de desenvolvimento!
+### Olá, tudo certo? Sou o Felipe Santos! Minha principal meta atualmente é adquirir experiências profissionais e busco oportunidades de crescimento para ingressar na área de desenvolvimento como Desenvolvedor Back-end Júnior!
 
 - 👾 Atualmente estou estudando Python e Java;
-- 🔥 Busco oportunidades como desenvolvedor júnior BackEnd;
-- ⭐ Estou buscando ideias de projetos para me aprimorar;
-- ⚡ Amo conversar sobre tecnologia.
+- 🔥 Busco oportunidades como Desenvolvedor júnior BackEnd;
+- ⭐ Abaixo tem o link das minhas redes sociais para você me conhecer melhor!
+- ⚡ Estou disponível para trocar idéias sobre tecnologias e projetos pessoais, me chama no Linkedin!
 
 ##
 <div style="display: inline_block"><br>
