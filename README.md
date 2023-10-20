@@ -21,6 +21,6 @@
   <a href="https://www.linkedin.com/in/felipe-bittencourt-dos-santos-6b406421a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  <a href="https://github.com/FelipeSantw/FelipeSantw/files/11501754/Curriculo.-.Felipe.B.Santos.pdf" target="_blank">
+  <a href="https://github.com/FelipeSantw/FelipeSantw/files/11501754/Curriculo.-.Felipe.B.Santos.pdf](https://github.com/FelipeSantw/FelipeSantw/blob/1ce4a2be6bd5794f5065ce48857352b82b6ef87f/Curriculo.-.Felipe.B.Santos.pdf)https://github.com/FelipeSantw/FelipeSantw/blob/1ce4a2be6bd5794f5065ce48857352b82b6ef87f/Curriculo.-.Felipe.B.Santos.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Meu-Curr%C3%ADculo-success"></a>
 </div>
